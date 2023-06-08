@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JetPack Kotlin</string>
+    <string name="title_activity_detail">Detail Anggota</string>
+    <string name="title_activity_main">List Anggota</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="placeholder_search">Search</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+</resources>
